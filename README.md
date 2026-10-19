@@ -1,4 +1,4 @@
-# Gut Microbiome Dysbiosis and CRC in Low-and-Middle-Income countries
+# Gut Microbiome Dysbiosis and CRC in Low- and Middle-Income countries
 
 ## Overview
 This repository contains Metadata and R scirpts that were used in this cross-population study of colorectal cancer (CRC)-associated mucosal microbiomes. The study used publicly available microbiome data from Sri Lanka, Kenya, and the United States (USA). Standardized bioinformatics pipelines were used to perform taxonomic profiling, microbial diversity analysis and statistical testing.
@@ -7,7 +7,7 @@ This repository contains Metadata and R scirpts that were used in this cross-pop
 ### 1. Data Collection
 - Systematic literature review.
 - Retrieval of publicly available sequencing data from NCBI SRA and EMBL-EBI.
-- sample metadata compiled from public database.
+- Sample metadata compiled from public database.
 ### 2. Data Processing
 - Downloading raw paired-end FASTQ files using SRA Toolkit.
 - DADA2 analysis (Quality control, filtering, trimming, denoising, and chimera removal).
