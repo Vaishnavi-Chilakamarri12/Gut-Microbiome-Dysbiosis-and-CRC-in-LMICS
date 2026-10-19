@@ -1,0 +1,147 @@
+SRA number,Country,Condition,Group,Collection site,Age,Sex,Population_background,Amplification,Instumentation
+ERR13352498,Sri Lanka,CRC,SL_CRC,NA,NA,NA,Sri Lankan,V4 hypervariable region,Illumina MiSeq
+ERR13352493,Sri Lanka,CRC,SL_CRC,NA,NA,NA,Sri Lankan,V4 hypervariable region,Illumina MiSeq
+ERR13352489,Sri Lanka,CRC,SL_CRC,NA,NA,NA,Sri Lankan,V4 hypervariable region,Illumina MiSeq
+ERR13352484,Sri Lanka,CRC,SL_CRC,NA,NA,NA,Sri Lankan,V4 hypervariable region,Illumina MiSeq
+ERR13352491,Sri Lanka,CRC,SL_CRC,NA,NA,NA,Sri Lankan,V4 hypervariable region,Illumina MiSeq
+ERR13352485,Sri Lanka,CRC,SL_CRC,NA,NA,NA,Sri Lankan,V4 hypervariable region,Illumina MiSeq
+ERR13352490,Sri Lanka,CRC,SL_CRC,NA,NA,NA,Sri Lankan,V4 hypervariable region,Illumina MiSeq
+ERR13352495,Sri Lanka,CRC,SL_CRC,NA,NA,NA,Sri Lankan,V4 hypervariable region,Illumina MiSeq
+ERR13352488,Sri Lanka,CRC,SL_CRC,NA,NA,NA,Sri Lankan,V4 hypervariable region,Illumina MiSeq
+ERR13352494,Sri Lanka,CRC,SL_CRC,NA,NA,NA,Sri Lankan,V4 hypervariable region,Illumina MiSeq
+ERR13352486,Sri Lanka,CRC,SL_CRC,NA,NA,NA,Sri Lankan,V4 hypervariable region,Illumina MiSeq
+ERR13352487,Sri Lanka,CRC,SL_CRC,NA,NA,NA,Sri Lankan,V4 hypervariable region,Illumina MiSeq
+ERR13352500,Sri Lanka,CRC,SL_CRC,NA,NA,NA,Sri Lankan,V4 hypervariable region,Illumina MiSeq
+ERR13352501,Sri Lanka,CRC,SL_CRC,NA,NA,NA,Sri Lankan,V4 hypervariable region,Illumina MiSeq
+ERR13352499,Sri Lanka,CRC,SL_CRC,NA,NA,NA,Sri Lankan,V4 hypervariable region,Illumina MiSeq
+ERR13352492,Sri Lanka,CRC,SL_CRC,NA,NA,NA,Sri Lankan,V4 hypervariable region,Illumina MiSeq
+ERR13352497,Sri Lanka,CRC,SL_CRC,NA,NA,NA,Sri Lankan,V4 hypervariable region,Illumina MiSeq
+ERR13352496,Sri Lanka,CRC,SL_CRC,NA,NA,NA,Sri Lankan,V4 hypervariable region,Illumina MiSeq
+ERR13352483,Sri Lanka,Control,SL_N,NA,NA,NA,Sri Lankan,V4 hypervariable region,Illumina MiSeq
+ERR13352474,Sri Lanka,Control,SL_N,NA,NA,NA,Sri Lankan,V4 hypervariable region,Illumina MiSeq
+ERR13352467,Sri Lanka,Control,SL_N,NA,NA,NA,Sri Lankan,V4 hypervariable region,Illumina MiSeq
+ERR13352469,Sri Lanka,Control,SL_N,NA,NA,NA,Sri Lankan,V4 hypervariable region,Illumina MiSeq
+ERR13352481,Sri Lanka,Control,SL_N,NA,NA,NA,Sri Lankan,V4 hypervariable region,Illumina MiSeq
+ERR13352473,Sri Lanka,Control,SL_N,NA,NA,NA,Sri Lankan,V4 hypervariable region,Illumina MiSeq
+ERR13352482,Sri Lanka,Control,SL_N,NA,NA,NA,Sri Lankan,V4 hypervariable region,Illumina MiSeq
+ERR13352479,Sri Lanka,Control,SL_N,NA,NA,NA,Sri Lankan,V4 hypervariable region,Illumina MiSeq
+ERR13352475,Sri Lanka,Control,SL_N,NA,NA,NA,Sri Lankan,V4 hypervariable region,Illumina MiSeq
+ERR13352471,Sri Lanka,Control,SL_N,NA,NA,NA,Sri Lankan,V4 hypervariable region,Illumina MiSeq
+ERR13352470,Sri Lanka,Control,SL_N,NA,NA,NA,Sri Lankan,V4 hypervariable region,Illumina MiSeq
+ERR13352476,Sri Lanka,Control,SL_N,NA,NA,NA,Sri Lankan,V4 hypervariable region,Illumina MiSeq
+ERR13352477,Sri Lanka,Control,SL_N,NA,NA,NA,Sri Lankan,V4 hypervariable region,Illumina MiSeq
+ERR13352468,Sri Lanka,Control,SL_N,NA,NA,NA,Sri Lankan,V4 hypervariable region,Illumina MiSeq
+ERR13352480,Sri Lanka,Control,SL_N,NA,NA,NA,Sri Lankan,V4 hypervariable region,Illumina MiSeq
+ERR13352466,Sri Lanka,Control,SL_N,NA,NA,NA,Sri Lankan,V4 hypervariable region,Illumina MiSeq
+ERR13352478,Sri Lanka,Control,SL_N,NA,NA,NA,Sri Lankan,V4 hypervariable region,Illumina MiSeq
+ERR13352472,Sri Lanka,Control,SL_N,NA,NA,NA,Sri Lankan,V4 hypervariable region,Illumina MiSeq
+SRR24983245,USA,CRC,WA_CRC,Proximal colon,66,F,White American,V4 hypervariable region,Illumina MiSeq
+SRR24983250,USA,CRC,WA_CRC,Proximal colon,50,F,White American,V4 hypervariable region,Illumina MiSeq
+SRR24983287,USA,CRC,WA_CRC,Proximal colon,65,F,White American,V4 hypervariable region,Illumina MiSeq
+SRR24983247,USA,CRC,WA_CRC,Distal colon,69,F,White American,V4 hypervariable region,Illumina MiSeq
+SRR24983282,USA,CRC,WA_CRC,Proximal colon,58,M,White American,V4 hypervariable region,Illumina MiSeq
+SRR24983230,USA,CRC,WA_CRC,Proximal colon,47,M,White American,V4 hypervariable region,Illumina MiSeq
+SRR24983241,USA,CRC,WA_CRC,Proximal colon,49,F,White American,V4 hypervariable region,Illumina MiSeq
+SRR24983239,USA,CRC,WA_CRC,Distal colon,66,F,White American,V4 hypervariable region,Illumina MiSeq
+SRR24983243,USA,CRC,WA_CRC,Proximal colon,62,F,White American,V4 hypervariable region,Illumina MiSeq
+SRR24983285,USA,CRC,WA_CRC,Rectum,58,M,White American,V4 hypervariable region,Illumina MiSeq
+SRR24983289,USA,CRC,WA_CRC,Proximal colon,51,M,White American,V4 hypervariable region,Illumina MiSeq
+SRR24983232,USA,CRC,WA_CRC,Proximal colon,63,F,White American,V4 hypervariable region,Illumina MiSeq
+SRR24983234,USA,CRC,WA_CRC,Proximal colon,70,F,White American,V4 hypervariable region,Illumina MiSeq
+SRR24983252,USA,CRC,WA_CRC,Proximal colon,50,M,White American,V4 hypervariable region,Illumina MiSeq
+SRR24983274,USA,CRC,WA_CRC,Rectum,49,F,White American,V4 hypervariable region,Illumina MiSeq
+SRR24983279,USA,CRC,WA_CRC,Proximal colon,70,M,White American,V4 hypervariable region,Illumina MiSeq
+SRR24983272,USA,CRC,WA_CRC,Distal colon,45,M,White American,V4 hypervariable region,Illumina MiSeq
+SRR24983277,USA,CRC,WA_CRC,Proximal colon,61,M,White American,V4 hypervariable region,Illumina MiSeq
+SRR24983236,USA,CRC,WA_CRC,Proximal colon,53,F,White American,V4 hypervariable region,Illumina MiSeq
+SRR24983281,USA,Control,WA_N,Proximal colon,58,M,White American,V4 hypervariable region,Illumina MiSeq
+SRR24983238,USA,Control,WA_N,Distal colon,66,F,White American,V4 hypervariable region,Illumina MiSeq
+SRR24983286,USA,Control,WA_N,Proximal colon,65,F,White American,V4 hypervariable region,Illumina MiSeq
+SRR24983288,USA,Control,WA_N,Proximal colon,51,M,White American,V4 hypervariable region,Illumina MiSeq
+SRR24983242,USA,Control,WA_N,Proximal colon,62,F,White American,V4 hypervariable region,Illumina MiSeq
+SRR24983284,USA,Control,WA_N,Rectum,58,M,White American,V4 hypervariable region,Illumina MiSeq
+SRR24983240,USA,Control,WA_N,Proximal colon,49,F,White American,V4 hypervariable region,Illumina MiSeq
+SRR24983235,USA,Control,WA_N,Proximal colon,53,F,White American,V4 hypervariable region,Illumina MiSeq
+SRR24983253,USA,Control,WA_N,Proximal colon,50,M,White American,V4 hypervariable region,Illumina MiSeq
+SRR24983275,USA,Control,WA_N,Rectum,49,F,White American,V4 hypervariable region,Illumina MiSeq
+SRR24983280,USA,Control,WA_N,Proximal colon,70,M,White American,V4 hypervariable region,Illumina MiSeq
+SRR24983231,USA,Control,WA_N,Proximal colon,63,F,White American,V4 hypervariable region,Illumina MiSeq
+SRR24983244,USA,Control,WA_N,Proximal colon,66,F,White American,V4 hypervariable region,Illumina MiSeq
+SRR24983246,USA,Control,WA_N,Proximal colon,47,M,White American,V4 hypervariable region,Illumina MiSeq
+SRR24983248,USA,Control,WA_N,Distal colon,69,F,White American,V4 hypervariable region,Illumina MiSeq
+SRR24983251,USA,Control,WA_N,Proximal colon,50,F,White American,V4 hypervariable region,Illumina MiSeq
+SRR24983233,USA,Control,WA_N,Proximal colon,70,F,White American,V4 hypervariable region,Illumina MiSeq
+SRR24983273,USA,Control,WA_N,Distal colon,45,M,White American,V4 hypervariable region,Illumina MiSeq
+SRR24983278,USA,Control,WA_N,Proximal colon,61,M,White American,V4 hypervariable region,Illumina MiSeq
+SRR24983298,USA,CRC,AA_CRC,Rectum colon,56,M,African American,V4 hypervariable region,Illumina MiSeq
+SRR24983300,USA,CRC,AA_CRC,Proximal colon,42,M,African American,V4 hypervariable region,Illumina MiSeq
+SRR24983294,USA,CRC,AA_CRC,Proximal colon,57,M,African American,V4 hypervariable region,Illumina MiSeq
+SRR24983269,USA,CRC,AA_CRC,Proximal colon,57,F,African American,V4 hypervariable region,Illumina MiSeq
+SRR24983237,USA,CRC,AA_CRC,Distal colon,65,F,African American,V4 hypervariable region,Illumina MiSeq
+SRR24983265,USA,CRC,AA_CRC,Proximal colon,56,F,African American,V4 hypervariable region,Illumina MiSeq
+SRR24983255,USA,CRC,AA_CRC,Proximal colon,59,F,African American,V4 hypervariable region,Illumina MiSeq
+SRR24983256,USA,CRC,AA_CRC,Proximal colon,57,F,African American,V4 hypervariable region,Illumina MiSeq
+SRR24983263,USA,CRC,AA_CRC,Proximal colon,70,F,African American,V4 hypervariable region,Illumina MiSeq
+SRR24983310,USA,CRC,AA_CRC,Proximal colon,64,F,African American,V4 hypervariable region,Illumina MiSeq
+SRR24983261,USA,CRC,AA_CRC,Proximal colon,51,F,African American,V4 hypervariable region,Illumina MiSeq
+SRR24983258,USA,CRC,AA_CRC,Proximal colon,50,F,African American,V4 hypervariable region,Illumina MiSeq
+SRR24983296,USA,CRC,AA_CRC,Proximal colon,60,M,African American,V4 hypervariable region,Illumina MiSeq
+SRR24983292,USA,CRC,AA_CRC,Proximal colon,70,M,African American,V4 hypervariable region,Illumina MiSeq
+SRR24983276,USA,CRC,AA_CRC,olon/rectum,56,F,African American,V4 hypervariable region,Illumina MiSeq
+SRR24983217,USA,CRC,AA_CRC,Proximal colon,60,F,African American,V4 hypervariable region,Illumina MiSeq
+SRR24983260,USA,CRC,AA_CRC,Distal colon,67,M,African American,V4 hypervariable region,Illumina MiSeq
+SRR24983267,USA,CRC,AA_CRC,Proximal colon,35,F,African American,V4 hypervariable region,Illumina MiSeq
+SRR24983290,USA,Control,AA_N,Proximal colon,57,F,African American,V4 hypervariable region,Illumina MiSeq
+SRR24983293,USA,Control,AA_N,Proximal colon,70,M,African American,V4 hypervariable region,Illumina MiSeq
+SRR24983297,USA,Control,AA_N,Proximal colon,60,M,African American,V4 hypervariable region,Illumina MiSeq
+SRR24983295,USA,Control,AA_N,Proximal colon,57,M,African American,V4 hypervariable region,Illumina MiSeq
+SRR24983266,USA,Control,AA_N,Proximal colon,56,F,African American,V4 hypervariable region,Illumina MiSeq
+SRR24983291,USA,Control,AA_N,Distal colon,67,M,African American,V4 hypervariable region,Illumina MiSeq
+SRR24983268,USA,Control,AA_N,Proximal colon,35,F,African American,V4 hypervariable region,Illumina MiSeq
+SRR24983249,USA,Control,AA_N,Distal colon,65,M,African American,V4 hypervariable region,Illumina MiSeq
+SRR24983254,USA,Control,AA_N,Proximal colon,59,F,African American,V4 hypervariable region,Illumina MiSeq
+SRR24983264,USA,Control,AA_N,Proximal colon,70,F,African American,V4 hypervariable region,Illumina MiSeq
+SRR24983299,USA,Control,AA_N,Rectum colon,56,M,African American,V4 hypervariable region,Illumina MiSeq
+SRR24983311,USA,Control,AA_N,Proximal colon,64,F,African American,V4 hypervariable region,Illumina MiSeq
+SRR24983262,USA,Control,AA_N,Proximal colon,51,F,African American,V4 hypervariable region,Illumina MiSeq
+SRR24983259,USA,Control,AA_N,Proximal colon,50,F,African American,V4 hypervariable region,Illumina MiSeq
+SRR24983257,USA,Control,AA_N,Proximal colon,57,F,African American,V4 hypervariable region,Illumina MiSeq
+SRR24983206,USA,Control,AA_N,Distal colon,52,M,African American,V4 hypervariable region,Illumina MiSeq
+SRR24983283,USA,Control,AA_N,colon/rectum,56,F,African American,V4 hypervariable region,Illumina MiSeq
+SRR24983309,USA,Control,AA_N,Proximal colon,42,M,African American,V4 hypervariable region,Illumina MiSeq
+SRR24984938,Kenya,CRC,K_CRC,Rectum,87,M,Kenyan,V4 hypervariable region,Illumina MiSeq
+SRR24984939,Kenya,CRC,K_CRC,Rectum,22,M,Kenyan,V4 hypervariable region,Illumina MiSeq
+SRR24984940,Kenya,CRC,K_CRC,Proximal,37,F,Kenyan,V4 hypervariable region,Illumina MiSeq
+SRR24984941,Kenya,CRC,K_CRC,Proximal,26,M,Kenyan,V4 hypervariable region,Illumina MiSeq
+SRR24984942,Kenya,CRC,K_CRC,Rectum,46,F,Kenyan,V4 hypervariable region,Illumina MiSeq
+SRR24984943,Kenya,CRC,K_CRC,Rectum,71,F,Kenyan,V4 hypervariable region,Illumina MiSeq
+SRR24984955,Kenya,CRC,K_CRC,Distal,36,F,Kenyan,V4 hypervariable region,Illumina MiSeq
+SRR24984959,Kenya,CRC,K_CRC,Distal,39,M,Kenyan,V4 hypervariable region,Illumina MiSeq
+SRR24984960,Kenya,CRC,K_CRC,Proximal,67,M,Kenyan,V4 hypervariable region,Illumina MiSeq
+SRR24984961,Kenya,CRC,K_CRC,Proximal,57,M,Kenyan,V4 hypervariable region,Illumina MiSeq
+SRR24984962,Kenya,CRC,K_CRC,Distal,60,M,Kenyan,V4 hypervariable region,Illumina MiSeq
+SRR24984963,Kenya,CRC,K_CRC,Rectum,84,M,Kenyan,V4 hypervariable region,Illumina MiSeq
+SRR24984964,Kenya,CRC,K_CRC,Rectum,52,F,Kenyan,V4 hypervariable region,Illumina MiSeq
+SRR24984965,Kenya,CRC,K_CRC,Rectum,46,M,Kenyan,V4 hypervariable region,Illumina MiSeq
+SRR24984966,Kenya,CRC,K_CRC,Rectum,40,M,Kenyan,V4 hypervariable region,Illumina MiSeq
+SRR24984969,Kenya,CRC,K_CRC,Distal,47,M,Kenyan,V4 hypervariable region,Illumina MiSeq
+SRR24984972,Kenya,CRC,K_CRC,proximal,35,F,Kenyan,V4 hypervariable region,Illumina MiSeq
+SRR24984973,Kenya,CRC,K_CRC,Rectum,40,M,Kenyan,V4 hypervariable region,Illumina MiSeq
+SRR24984947,Kenya,Control,K_N,Colon/Rectum,NA,NA,Kenyan,V4 hypervariable region,Illumina MiSeq
+SRR24984948,Kenya,Control,K_N,Colon/Rectum,NA,NA,Kenyan,V4 hypervariable region,Illumina MiSeq
+SRR24984949,Kenya,Control,K_N,Colon/Rectum,NA,NA,Kenyan,V4 hypervariable region,Illumina MiSeq
+SRR24984951,Kenya,Control,K_N,Colon/Rectum,NA,NA,Kenyan,V4 hypervariable region,Illumina MiSeq
+SRR24984952,Kenya,Control,K_N,Colon/Rectum,NA,NA,Kenyan,V4 hypervariable region,Illumina MiSeq
+SRR24984953,Kenya,Control,K_N,Colon/Rectum,NA,NA,Kenyan,V4 hypervariable region,Illumina MiSeq
+SRR24984954,Kenya,Control,K_N,Colon/Rectum,NA,NA,Kenyan,V4 hypervariable region,Illumina MiSeq
+SRR24984944,Kenya,Control,K_N,Colon/Rectum,NA,NA,Kenyan,V4 hypervariable region,Illumina MiSeq
+SRR24984945,Kenya,Control,K_N,Colon/Rectum,NA,NA,Kenyan,V4 hypervariable region,Illumina MiSeq
+SRR24984946,Kenya,Control,K_N,Colon/Rectum,NA,NA,Kenyan,V4 hypervariable region,Illumina MiSeq
+SRR24984950,Kenya,Control,K_N,Colon/Rectum,NA,NA,Kenyan,V4 hypervariable region,Illumina MiSeq
+SRR24984956,Kenya,Control,K_N,Colon/Rectum,NA,NA,Kenyan,V4 hypervariable region,Illumina MiSeq
+SRR24984957,Kenya,Control,K_N,Colon/Rectum,NA,NA,Kenyan,V4 hypervariable region,Illumina MiSeq
+SRR24984958,Kenya,Control,K_N,Colon/Rectum,NA,NA,Kenyan,V4 hypervariable region,Illumina MiSeq
+SRR24984967,Kenya,Control,K_N,Colon/Rectum,NA,NA,Kenyan,V4 hypervariable region,Illumina MiSeq
+SRR24984968,Kenya,Control,K_N,Colon/Rectum,NA,NA,Kenyan,V4 hypervariable region,Illumina MiSeq
+SRR24984970,Kenya,Control,K_N,Colon/Rectum,NA,NA,Kenyan,V4 hypervariable region,Illumina MiSeq
+SRR24984971,Kenya,Control,K_N,Colon/Rectum,NA,NA,Kenyan,V4 hypervariable region,Illumina MiSeq
